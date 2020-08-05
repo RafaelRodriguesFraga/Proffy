@@ -26,7 +26,7 @@ const PageHeader: React.FC<PageHeaderProps> = (props) => {
         <strong>{props.title}</strong>
 
         {/* Caso ele tenha descrição, ele vai mostrar, caso contrario, nao mostra */}
-        {props.description && <p>{props.description}</p>} 
+        {props.description && <p>{props.description}</p>}
         {props.children}
       </div>
     </header>
