@@ -1,6 +1,6 @@
 
 <p align=center>
-<img src="https://user-images.githubusercontent.com/29709111/102088400-9ae85300-3df9-11eb-9023-15c7e1194ded.png" /> 
+<img src="https://user-images.githubusercontent.com/29709111/102088400-9ae85300-3df9-11eb-9023-15c7e1194ded.png" width="85%"/> 
 </p>
 
 **<h2 align="center">Projeto desenvolvido na Next Level Week 2 realizada pela [Rocketseat](https://rocketseat.com.br) em conjunto com o Dia dos Professores</h2>**
